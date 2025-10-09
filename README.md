@@ -1,3 +1,6 @@
+## 事前準備
+- Docker Hub にリポジトリ用意
+
 ## アプリのビルド
 ```bash
 mvn clean package -DskipTests
