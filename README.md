@@ -12,7 +12,7 @@ docker build -t k8s-sample-app:latest .
 
 ## コンテナイメージのタグ付け
 ```bash
-docker tag k8s-sample-app:latest nkdeveloper26/k8s-sample-app:latest .
+docker tag k8s-sample-app:latest nkdeveloper26/k8s-sample-app:latest
 ```
 
 ## コンテナイメージを Docker Hub に push
